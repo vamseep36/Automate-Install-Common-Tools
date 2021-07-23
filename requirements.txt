@@ -1,0 +1,11 @@
+scikit-learn
+Torch
+keras
+TensorFlow
+torch 
+torchvision 
+torchaudio
+jupyterlab
+Django
+setuptools 
+virtualenv
