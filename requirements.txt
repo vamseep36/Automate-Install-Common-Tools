@@ -9,3 +9,4 @@ jupyterlab
 Django
 setuptools 
 virtualenv
+mysql-connector-python
